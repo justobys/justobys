@@ -59,5 +59,5 @@ When I’m not coding, you’ll find me exploring new tools, tweaking UIs, or ed
 ---
 
 <p align="center">
-  <i>✨ “Code a little, create a lot.” ✨</i>
+  <i>✨ “Write a little code, scroll more on Fesnuk.” ✨</i>
 </p>
