@@ -14,7 +14,7 @@
 ---
 
 ### 🌟 About Me
-Hey there! I'm <b>Fadjrin</b> — a curious developer who loves building simple yet functional websites.  
+Hey there! I'm <b>Fadjrin</b>, a curious developer who loves building simple yet functional websites.  
 I enjoy experimenting with colors, layouts, and modern frameworks to bring creative ideas to life.  
 When I’m not coding, you’ll find me exploring new tools, tweaking UIs, or editing videos 🎬  
 
